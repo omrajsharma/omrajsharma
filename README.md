@@ -8,7 +8,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Web Development
 - 🤔 I’m looking for help with ... Teaching
 - 💬 Ask me about ... Learning, Teaching and related stuff
-- 📫 How to reach me: ... LinkedIn Twitter
+- 📫 How to reach me: ... [linkedin] [twitter] [mail] 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love gardening
 -->
+
+[linkedin]: https://linkedin.com/in/omraj-sharma
+[twitter]: https://twitter.com/iamomrajsharma
+[website]: https://omrajsharma.github.io
+[instagram]: https://instagram.com/omraaaaj
+[mail]: omraj7413@gmail.com
