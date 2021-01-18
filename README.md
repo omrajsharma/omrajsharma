@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### Omraj's Github Status
+### Github Status
 
 ![Omraj's github stats](https://github-readme-stats.vercel.app/api?username=omrajsharma&bg_color=30,A9A9A9,189ab4&title_color=fff&text_color=fff)
 
