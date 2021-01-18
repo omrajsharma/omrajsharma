@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Omraj Sharma</h1>
 
-<img src="https://img.freepik.com/free-vector/kids-online-lessons-concept_23-2148520727.jpg?size=626&ext=jpg&ga=GA1.2.1788868677.1610950550" alt="Omraj Sharma" float="right">
+<img src="https://img.freepik.com/free-vector/kids-online-lessons-concept_23-2148520727.jpg?size=626&ext=jpg&ga=GA1.2.1788868677.1610950550" alt="Omraj Sharma" align="right" width="50%">
 
 Here are some ideas to get you started:
 
