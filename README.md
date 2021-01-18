@@ -10,10 +10,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] - Website <br>
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] - LinkedIn <br>
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] - Twitter <br>
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Medium.svg" />][Medium] - Medium <br>
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] - Instagram <br>
 
 <br/>
 
@@ -49,9 +50,10 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://linkedin.com/in/omraj-sharma
-[twitter]: https://twitter.com/iamomrajsharma
+[twitter]: https://twitter.com/omraaaaj
+[Medium]: https://medium.com/@omrajsharma
 [website]: https://omrajsharma.github.io
-[instagram]: https://instagram.com/omraaaaj
+[instagram]: https://instagram.com/omicodes
 [mail]: omraj7413@gmail.com
 [Code Genics]: https://codegenics.github.io
 [Omraj Sharma]: https://linkedin.com/in/omraj-sharma
