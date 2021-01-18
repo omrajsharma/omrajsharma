@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Omraj Sharma<h1>
-  
----
-
 
 Here are some ideas to get you started:
 
