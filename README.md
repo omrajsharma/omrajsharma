@@ -13,19 +13,16 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://omrajsharma.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-omrajsharma.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/omraj-sharma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omraj%20Sharma-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.twitter.com/omraaaaj"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-omraaaaj-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/omicodes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-omicodes-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:omraj7413@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omraj7413@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] - <a src="https://omrajsharma.github.io" alt="Omraj Sharma"> Website </a> <br>
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] - LinkedIn <br>
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] - Twitter <br>
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] - Instagram <br>
-
 <br/>
 
 ### Tech Stack:
 
+
+<center>
 <h3 align="left"> - Programming Languages </h3>
 <img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -61,6 +58,10 @@ Here are some ideas to get you started:
 <h3 align="left"> - Tools </h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
+</center>
+
+
+
 <br>
 <br/>
 <br/>
