@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Code Genics]
 - 🌱 I’m currently learning Full Stack Webdevelopment
 - 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with Teaching
-- 💬 Ask me about Learning, Teaching and related stuff
-
+- 🤔 I’m looking for Web Development Intership
+- 💬 Ask me about Tech, Development, Competitive programming etc.
 
 ### Tech Stack:
 
@@ -68,9 +67,6 @@ Here are some ideas to get you started:
 <a href="mailto:omraj7413@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omraj7413@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <br/>
-
-
-
 
 [linkedin]: https://linkedin.com/in/omraj-sharma
 [twitter]: https://twitter.com/omraaaaj
