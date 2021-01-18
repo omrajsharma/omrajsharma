@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Omraj Sharma<h1>
+
 
 Here are some ideas to get you started:
 
-<p>
 - 🔭 I’m currently working on [Code Genics]
 - 🌱 I’m currently learning Full Stack Webdevelopment
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with Teaching
 - 💬 Ask me about Learning, Teaching and related stuff
-</p>
 
 ### Connect with me:
 
