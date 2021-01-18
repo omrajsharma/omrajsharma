@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[Omraj's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[Omraj's github stats](https://github-readme-stats.vercel.app/api?username=omrajsharma&show_icons=true&theme=radical)
 
 [linkedin]: https://linkedin.com/in/omraj-sharma
 [twitter]: https://twitter.com/iamomrajsharma
