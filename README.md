@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omrajsharma&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<h1 align="center">Hi , I'm Omraj Sharma</h1>
 
 Here are some ideas to get you started:
 
