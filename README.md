@@ -10,6 +10,13 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
+<p align="center">
+<a href="https://omrajsharma.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-omrajsharma.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/omraj-sharma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omraj%20Sharma-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/omicodes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-omicodes-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:omraj7413@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omraj7413@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] - <a src="https://omrajsharma.github.io" alt="Omraj Sharma"> Website </a> <br>
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] - LinkedIn <br>
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] - Twitter <br>
