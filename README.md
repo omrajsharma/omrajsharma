@@ -8,9 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with Teaching
 - 💬 Ask me about Learning, Teaching and related stuff
-- 📫 How to reach me: [linkedin]  [twitter]  [mail] 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love gardening
 
 ### Connect with me:
 
@@ -49,6 +46,8 @@ Here are some ideas to get you started:
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+[Omraj's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [linkedin]: https://linkedin.com/in/omraj-sharma
 [twitter]: https://twitter.com/iamomrajsharma
