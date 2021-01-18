@@ -8,16 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Teaching
 - 💬 Ask me about Learning, Teaching and related stuff
 
-### Connect with me:
-
-<p align="center">
-<a href="https://omrajsharma.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-omrajsharma.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/omraj-sharma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omraj%20Sharma-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/omraaaaj"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-omraaaaj-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.instagram.com/omicodes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-omicodes-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:omraj7413@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omraj7413@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-<br/>
 
 ### Tech Stack:
 
@@ -62,7 +52,21 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+### Omraj's Github Status
+
 ![Omraj's github stats](https://github-readme-stats.vercel.app/api?username=omrajsharma&bg_color=30,A9A9A9,189ab4&title_color=fff&text_color=fff)
+
+### Connect with me:
+
+<p align="center">
+<a href="https://omrajsharma.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-omrajsharma.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/omraj-sharma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omraj%20Sharma-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.twitter.com/omraaaaj"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-omraaaaj-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.instagram.com/omicodes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-omicodes-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:omraj7413@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omraj7413@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+<br/>
+
 
 
 
