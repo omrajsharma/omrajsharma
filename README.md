@@ -1,14 +1,14 @@
 <h1 align="center">Hi , I'm Omraj Sharma</h1>
 
-<img src="https://img.freepik.com/free-vector/kids-online-lessons-concept_23-2148520727.jpg?size=626&ext=jpg&ga=GA1.2.1788868677.1610950550" alt="Omraj Sharma" align="right" width="50%">
+<!-- <img src="https://img.freepik.com/free-vector/kids-online-lessons-concept_23-2148520727.jpg?size=626&ext=jpg&ga=GA1.2.1788868677.1610950550" alt="Omraj Sharma" align="right" width="50%"> -->
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Code Genics]
-- 🌱 I’m currently learning Full Stack Webdevelopment
-- 👯 I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning UI/UX Designing
+- 👯 I’m looking to collaborate on Web Development, UI Design, Product Design
 - 🤔 I’m looking for Web Development Intership
-- 💬 Ask me about Tech, Development, Competitive programming etc.
+- 💬 Ask me about Tech, Development, Competitive programming
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=0000ff)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 
 ### Github Status
 
-![Omraj's github stats](https://github-readme-stats.vercel.app/api?username=omrajsharma&bg_color=30,A9A9A9,189ab4&title_color=fff&text_color=fff)
+![Omraj's github stats](https://github-readme-stats.vercel.app/api?username=omrajsharma&bg_color=0,ff8900,ffca8d&title_color=fff&text_color=fff)
 
 ### Connect with me:
 
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/omraaaaj
 [Medium]: https://medium.com/@omrajsharma
 [website]: https://omrajsharma.github.io
-[instagram]: https://instagram.com/omicodes
+[instagram]: https://www.instagram.com/ommi_creates/
 [mail]: omraj7413@gmail.com
-[Code Genics]: https://codegenics.github.io
+[Code Genics]: https://codegenics.in
 [Omraj Sharma]: https://linkedin.com/in/omraj-sharma
