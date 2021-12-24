@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Vue, React & Designing**
 
-- 👨‍💻 All of my projects are available at [here](omrajsharma.github.io/projects)
+- 👨‍💻 All of my projects are available at [HERE](omrajsharma.github.io/projects)
 
-- 📄 Know about my experiences [Here](https://omrajsharma.github.io/)
+- 📄 Know about my experiences [HERE](https://omrajsharma.github.io/)
 
 - 📫 Reach out to me at **omrajatwork@gmail.com** 
 
@@ -22,18 +22,18 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=0000ff)
-  ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=0000ff)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=5ed3f3)
+  ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=3fb27f)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express&logoColor=0000ff)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express&logoColor=dddddd)
   
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
