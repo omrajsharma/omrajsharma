@@ -6,9 +6,11 @@
 
 <!-- <img src="https://img.freepik.com/free-vector/kids-online-lessons-concept_23-2148520727.jpg?size=626&ext=jpg&ga=GA1.2.1788868677.1610950550" alt="Omraj Sharma" align="right" width="50%"> -->
 
+- 💻 Software Engineering Intern at @mazecare
+
 - 🌱 I’m currently learning **UI/UX and Product Management**
 
-- 💬 Ask me about **Vue, React & Designing**
+- 💬 Ask me about **Vue, React & UI Designing**
 
 - 👨‍💻 All of my projects are available at [HERE](omrajsharma.github.io/projects)
 
