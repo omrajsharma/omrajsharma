@@ -6,15 +6,15 @@
 
 <!-- <img src="https://img.freepik.com/free-vector/kids-online-lessons-concept_23-2148520727.jpg?size=626&ext=jpg&ga=GA1.2.1788868677.1610950550" alt="Omraj Sharma" align="right" width="50%"> -->
 
-- 💻 Software Engineering Intern at [Mazecare](https://www.mazecare.com/)
+- 💻 Software Engineering [WheelsEye](https://wheelseye.com/)
 
-- 🌱 I’m currently learning **UI/UX and Product Management**
+- 🌱 I’m currently learning **How to write clean code**
 
 - 💬 Ask me about **Vue, React & UI Designing**
 
 - 👨‍💻 All of my projects are available at [HERE](omrajsharma.github.io/projects)
 
-- 📄 Know about my experiences [HERE](https://omrajsharma.github.io/)
+- 📄 Know about my experiences [HERE - My Portfolio Website](https://omrajsharma.github.io/)
 
 - 📫 Reach out to me at **omrajatwork@gmail.com** 
 
